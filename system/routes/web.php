@@ -29,7 +29,7 @@ Route::get('/index', function () {
     return view('pages.index');
 });
 Route::get('/regular-page', function () {
-    return view('pages.redular-page');
+    return view('pages.regular-page');
 });
 Route::get('/shop', function () {
     return view('pages.shop');
