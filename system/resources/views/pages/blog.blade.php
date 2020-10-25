@@ -112,10 +112,11 @@
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Hallo Pak Razy</a>
+                                <a href="#">NIM Saya : 304 2019 010.</a>
                             </div>
-                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
+                            <p>1. Halaman Login dapat diakses di sebelah atas kanan(logo orang) <br> 2. halaman utama bisa diakses di logo ESSENSE<br>3. Halaman product bisa diakses diberbagai menu yang tersedia untuk detailnya di menu page->product detail</p>
+                            
                         </div>
                     </div>
                 </div>
@@ -132,10 +133,11 @@
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Hallo Pak Razy</a>
+                                <a href="#">NIM Saya : 304 2019 010.</a>
                             </div>
-                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
+                            <p>1. Halaman Login dapat diakses di sebelah atas kanan(logo orang) <br> 2. halaman utama bisa diakses di logo ESSENSE<br>3. Halaman product bisa diakses diberbagai menu yang tersedia untuk detailnya di menu page->product detail</p>
+                        
                         </div>
                     </div>
                 </div>
@@ -152,10 +154,11 @@
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Hallo Pak Razy</a>
+                                <a href="#">NIM Saya : 304 2019 010.</a>
                             </div>
-                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
+                            <p>1. Halaman Login dapat diakses di sebelah atas kanan(logo orang) <br> 2. halaman utama bisa diakses di logo ESSENSE<br>3. Halaman product bisa diakses diberbagai menu yang tersedia untuk detailnya di menu page->product detail</p>
+                     
                         </div>
                     </div>
                 </div>
@@ -172,10 +175,11 @@
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Hallo Pak Razy</a>
+                                <a href="#">NIM Saya : 304 2019 010.</a>
                             </div>
-                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
+                            <p>1. Halaman Login dapat diakses di sebelah atas kanan(logo orang) <br> 2. halaman utama bisa diakses di logo ESSENSE<br>3. Halaman product bisa diakses diberbagai menu yang tersedia untuk detailnya di menu page->product detail</p>
+                           
                         </div>
                     </div>
                 </div>
@@ -192,10 +196,11 @@
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Hallo Pak Razy</a>
+                                <a href="#">NIM Saya : 304 2019 010.</a>
                             </div>
-                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
+                            <p>1. Halaman Login dapat dilihat di sebelah atas kanan(logo orang) <br> 2. halaman utama bisa diakses di logo ESSENSE</p>
+                           
                         </div>
                     </div>
                 </div>
@@ -212,10 +217,11 @@
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Hallo Pak Razy</a>
+                                <a href="#">NIM Saya : 304 2019 010.</a>
                             </div>
-                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
+                            <p>1. Halaman Login dapat diakses di sebelah atas kanan(logo orang) <br> 2. halaman utama bisa diakses di logo ESSENSE<br>3. Halaman product bisa diakses diberbagai menu yang tersedia untuk detailnya di menu page->product detail</p>
+                      
                         </div>
                     </div>
                 </div>
