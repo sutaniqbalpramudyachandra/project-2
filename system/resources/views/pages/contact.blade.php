@@ -89,13 +89,13 @@
         </div>
 
         <div class="contact-info">
-            <h2>How to Find Us</h2>
-            <p>Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.</p>
+            <h2>How to Find Us ?</h2>
+            <p>You can follow my instargram : sutan_ipc for more information.</p>
 
             <div class="contact-address mt-50">
-                <p><span>address:</span> 10 Suffolk st Soho, London, UK</p>
+                <p><span>address:</span> Ketapang,West Kalimantan</p>
                 <p><span>telephone:</span> +12 34 567 890</p>
-                <p><a href="mailto:contact@essence.com">contact@essence.com</a></p>
+                <p><a href="mailto:sutaniqbalpram@gmail.com">sutaniqbalpram@gmail.com</a></p>
             </div>
         </div>
 

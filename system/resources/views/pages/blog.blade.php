@@ -106,15 +106,15 @@
                         <img src="img/bg-img/blog1.jpg" alt="">
                         <!-- Post Title -->
                         <div class="post-title">
-                            <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                            <a href="#">Sutan Iqbal Pramudya Chandra</a>
                         </div>
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                                <a href="#">Hallo Pak Razy</a>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus purus dignissim convallis.</p>
+                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -126,15 +126,15 @@
                         <img src="img/bg-img/blog2.jpg" alt="">
                         <!-- Post Title -->
                         <div class="post-title">
-                            <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                            <a href="#">Sutan Iqbal Pramudya Chandra</a>
                         </div>
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                                <a href="#">Hallo Pak Razy</a>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus purus dignissim convallis.</p>
+                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -146,15 +146,15 @@
                         <img src="img/bg-img/blog3.jpg" alt="">
                         <!-- Post Title -->
                         <div class="post-title">
-                            <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                            <a href="#">Sutan Iqbal Pramudya Chandra</a>
                         </div>
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                                <a href="#">Hallo Pak Razy</a>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus purus dignissim convallis.</p>
+                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -166,15 +166,15 @@
                         <img src="img/bg-img/blog4.jpg" alt="">
                         <!-- Post Title -->
                         <div class="post-title">
-                            <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                            <a href="#">SUTAN IQBAL PRAMUDYA CHANDRA</a>
                         </div>
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                                <a href="#">Hallo Pak Razy</a>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus purus dignissim convallis.</p>
+                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -186,15 +186,15 @@
                         <img src="img/bg-img/blog5.jpg" alt="">
                         <!-- Post Title -->
                         <div class="post-title">
-                            <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                            <a href="#">Sutan Iqbal Pramudya Chandra</a>
                         </div>
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                                <a href="#">Hallo Pak Razy</a>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus purus dignissim convallis.</p>
+                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -206,15 +206,15 @@
                         <img src="img/bg-img/blog6.jpg" alt="">
                         <!-- Post Title -->
                         <div class="post-title">
-                            <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                            <a href="#">Sutan Iqbal Pramudya Chandra</a>
                         </div>
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <!-- Post Title -->
                             <div class="hover-post-title">
-                                <a href="#">Vivamus sed nunc in arcu cursus mollis quis et orci. Interdum et malesuada</a>
+                                <a href="#">Hallo Pak Razy</a>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor. Phasellus purus dignissim convallis.</p>
+                            <p>NIM Saya : 304 2019 010</p>
                             <a href="#">Continue reading <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
