@@ -107,11 +107,11 @@
                 </div>
                 <!-- User Login Info -->
                 <div class="user-login-info">
-                    <a href="login"><img src="img/core-img/user.svg" alt=""></a>
+                     <a href="login"><img src="img/core-img/user.svg" alt=""></a> 
                 </div>
                 <!-- Cart Area -->
                 <div class="cart-area">
-                    <li><a href="#" id="essenceCartBtn"><img src="img/core-img/bag.svg" alt=""> <span>3</span></a><li>
+                    <a href="#" id="essenceCartBtn"><img src="img/core-img/bag.svg" alt=""> <span>3</span></a>
                 </div>
             </div>
 
