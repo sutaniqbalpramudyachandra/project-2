@@ -44,3 +44,24 @@ Route::get('/login', function () {
     return view('pages.login');
 });
 
+Route::get('/admin', function () {
+    return view('pages.adminx');
+});
+Route::get('/profile', function () {
+    return view('pages.profile');
+});
+Route::get('/panels', function () {
+    return view('pages.panels');
+});
+Route::get('/gallery', function () {
+    return view('pages.gallery');
+});
+Route::get('/loginadmin', function () {
+    return view('pages.loginadmin');
+});
+Route::get('/inbox', function () {
+    return view('pages.inbox');
+});
+Route::get('/', function () {
+    return view('pages.adminx');
+});
