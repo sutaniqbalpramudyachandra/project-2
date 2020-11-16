@@ -256,41 +256,35 @@
           <li class="mt">
             <a class="active" href="admin">
               <i class="fa fa-dashboard"></i>
-              <span>Dashboard</span>
+              <span>Beranda</span>
               </a>
           </li>
           <li class="sub-menu">
-            <a href="{{url('system')}}/javascript:;">
+            <a href="product">
               <i class="fa fa-desktop"></i>
-              <span>UI Elements</span>
+              <span>Product</span>
               </a>
-            <ul class="sub">
-              <li><a href="panels">Panels</a></li>
-            </ul>
           </li>
           <li class="sub-menu">
-            <a href="{{url('system')}}/javascript:;">
+            <a href="kategori">
               <i class="fa fa-cogs"></i>
-              <span>Components</span>
+              <span>Kategori</span>
               </a>
-            <ul class="sub">
-              <li><a href="gallery">Gallery</a></li>
-            </ul>
           </li>
           <li class="sub-menu">
             <a href="{{url('system')}}/javascript:;">
               <i class="fa fa-book"></i>
-              <span>Extra Pages</span>
+              <span>Master Data</span>
               </a>
             <ul class="sub">
-              <li><a href="loginadmin">Login</a></li>
-              <li><a href="profile">Profile</a></li>
+              <li><a href="pelanggan">Pelanggan</a></li>
+              <li><a href="supplier">Supplier</a></li>
             </ul>
           </li>
           <li>
-            <a href="inbox">
+            <a href="promo">
               <i class="fa fa-envelope"></i>
-              <span>Mail </span>
+              <span>Promo</span>
               <span class="label label-theme pull-right mail-info">2</span>
               </a>
           </li>

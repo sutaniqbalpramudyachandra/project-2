@@ -47,21 +47,21 @@ Route::get('/login', function () {
 Route::get('/admin', function () {
     return view('pages.adminx');
 });
-Route::get('/profile', function () {
-    return view('pages.profile');
+Route::get('/supplier', function () {
+    return view('pages.supplier');
 });
-Route::get('/panels', function () {
-    return view('pages.panels');
+Route::get('/kategori', function () {
+    return view('pages.kategori');
 });
-Route::get('/gallery', function () {
-    return view('pages.gallery');
+Route::get('/pelanggan', function () {
+    return view('pages.pelanggan');
 });
-Route::get('/loginadmin', function () {
-    return view('pages.loginadmin');
-});
-Route::get('/inbox', function () {
-    return view('pages.inbox');
+Route::get('/promo', function () {
+    return view('pages.promo');
 });
 Route::get('/', function () {
     return view('pages.adminx');
+});
+Route::get('/product', function () {
+    return view('pages.product');
 });
