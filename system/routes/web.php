@@ -44,24 +44,27 @@ Route::get('/login', function () {
     return view('pages.login');
 });
 
-Route::get('/admin', function () {
-    return view('pages.adminx');
+Route::get('/template', function () {
+    return view('template.base');
 });
-Route::get('/supplier', function () {
-    return view('pages.supplier');
+
+Route::get('/beranda', function () {
+    return view('beranda');
 });
+
+Route::get('/product', function () {
+    return view('product');
+});
+
 Route::get('/kategori', function () {
-    return view('pages.kategori');
-});
-Route::get('/pelanggan', function () {
-    return view('pages.pelanggan');
+    return view('kategori');
 });
 Route::get('/promo', function () {
-    return view('pages.promo');
+    return view('promo');
 });
-Route::get('/', function () {
-    return view('pages.adminx');
+Route::get('/supplier', function () {
+    return view('supplier');
 });
-Route::get('/product', function () {
-    return view('pages.product');
+Route::get('/pelanggan', function () {
+    return view('pelanggan');
 });

@@ -1,4 +1,4 @@
- @extends('layouts.adminindex')
+ @extends('template.base')
 @section ('content')
  <!--main content start-->
     <section id="main-content">

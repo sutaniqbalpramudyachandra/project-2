@@ -1,4 +1,4 @@
- @extends('layouts.adminindex')
+ @extends('template.base')
 @section ('content')
 
   <div id="login-page">

@@ -1,6 +1,6 @@
-@extends('layouts.adminindex')
-@section ('content')
- <!--main content start-->
+@extends('template.base')
+@section ('content') 
+<!--main content start-->
     <section id="main-content">
       <section class="wrapper">
         <div class="row">
@@ -424,4 +424,4 @@
       </section>
     </section>
     <!--main content end-->
-   @stop
+    @endsection
