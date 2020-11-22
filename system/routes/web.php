@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\AuthController;
+use App\Http\Controllers\ProductController;
 
 /*
 |--------------------------------------------------------------------------
@@ -52,9 +55,6 @@ Route::get('/beranda', function () {
     return view('beranda');
 });
 
-Route::get('/product', function () {
-    return view('product');
-});
 
 Route::get('/kategori', function () {
     return view('kategori');
@@ -68,3 +68,7 @@ Route::get('/supplier', function () {
 Route::get('/pelanggan', function () {
     return view('pelanggan');
 });
+
+
+
+Route::get('/product', [ProductController::class,'index']);
