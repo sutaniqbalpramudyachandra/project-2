@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 class AuthController extends Controller
 {
 	function showLoginAdmin(){
-		return view('adminx');
+		return view('loginadmin');
 	}
 
 	function processLogin(){

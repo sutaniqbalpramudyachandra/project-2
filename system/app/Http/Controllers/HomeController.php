@@ -20,8 +20,12 @@ class HomeController extends Controller{
 	function showPromo ()	{
 		return view('promo');
 	}
-
-
+	function showPelanggan() {
+		return view('pelanggan');
+	}
+	function showSupplier(){
+		return view('supplier');
+	}
 
 
 }

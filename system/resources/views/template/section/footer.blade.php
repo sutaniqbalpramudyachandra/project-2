@@ -1,20 +1,9 @@
-    <footer class="site-footer">
-      <div class="text-center">
-        <p>
-          &copy; Copyrights <strong>Dashio</strong>. All Rights Reserved
-        </p>
-        <div class="credits">
-          <!--
-            You are NOT allowed to delete the credit link to TemplateMag with free version.
-            You can delete the credit link only if you bought the pro version.
-            Buy the pro version with working PHP/AJAX contact form: https://templatemag.com/dashio-bootstrap-admin-template/
-            Licensing information: https://templatemag.com/license/
-          -->
-         <a href="https://templatemag.com/">Sutan Iqbal Pramudya Chandra</a>
-        </div>
-        <a href="admin#" class="go-top">
-          <i class="fa fa-angle-up"></i>
-          </a>
-      </div>
-    </footer>
-    <!--footer end-->
+  <!-- Main Footer -->
+  <footer class="main-footer">
+    <!-- To the right -->
+    <div class="float-right d-none d-sm-inline">
+      Anything you want
+    </div>
+    <!-- Default to the left -->
+    <strong>Copyright &copy; 2020 @if(date("Y") > '2020') - {{date("Y")}} @endif <a href="https://politap.ac.id">Sutan Iqbal Pramudya Chandra</a>.</strong> All rights reserved.
+  </footer>

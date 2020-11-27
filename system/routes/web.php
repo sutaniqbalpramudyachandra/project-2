@@ -47,28 +47,22 @@ Route::get('/login', function () {
     return view('pages.login');
 });
 
-Route::get('/template', function () {
+Route::get('/admin', function () {
     return view('template.base');
 });
 
-Route::get('/beranda', function () {
-    return view('beranda');
-});
-
-
-Route::get('/kategori', function () {
-    return view('kategori');
-});
-Route::get('/promo', function () {
-    return view('promo');
-});
-Route::get('/supplier', function () {
-    return view('supplier');
-});
-Route::get('/pelanggan', function () {
-    return view('pelanggan');
-});
-
+Route::get('/beranda', [HomeController::class,'showBeranda']);
+Route::get('/kategori', [HomeController::class,'showKategori']);
+Route::get('/promo', [HomeController::class,'showPromo']);
+Route::get('/supplier', [HomeController::class,'showSupplier']);
+Route::get('/pelanggan', [HomeController::class,'showPelanggan']);
+Route::get('/loginadmin', [AuthController::class,'showLoginAdmin']);
 
 
 Route::get('/product', [ProductController::class,'index']);
+Route::get('/product/create', [ProductController::class,'create']);
+Route::post('/product', [ProductController::class,'store']);
+Route::get('product/{product}',[ProductController::class,'show']) ;
+Route::get('product/{product}/edit',[ProductController::class,'edit']) ;
+Route::put('product/{product}',[ProductController::class,'update']) ;
+Route::delete('product/{product}',[ProductController::class,'destroy']) ;
