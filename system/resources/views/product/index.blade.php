@@ -17,7 +17,7 @@
 						<table class="table">
 							<thead>
 								<th>No</th>
-								<th >Aksi</th>
+								<th>Aksi</th>
 								<th>Nama</th>
 								<th>Harga</th>
 								<th>Stock</th>
@@ -27,8 +27,8 @@
 								<tr>
 									<td>{{$loop->iteration}}</td>
 									<td>
-										<div class="btn-group ">
-										<a href="{{url('product', $product->id)}}" class="btn btn-dark float-right"><i class="fa fa-info"></i></a>
+										<div class="btn btn-group ">
+										<a href="{{url('product', $product->id)}}" class="btn btn-primary float-right"><i class="fa fa-info"></i></a>
 										<a href="{{url('product', $product->id)}}/edit" class="btn btn-warning float-right"><i class="fa fa-edit"></i></a>
 										@include('template.utils.delete', ['url' => url('product', $product->id)])
 										</div>
